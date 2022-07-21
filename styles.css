@@ -1,0 +1,26 @@
+/* styles.css */
+
+h1 {
+    color: white;
+    background-color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+h2 {
+    color: blue;
+}
+
+ul li{
+    color:blueviolet;
+    background-color: blanchedalmond;
+}
+
+ol li{
+    color:chartreuse;
+    background-color:darkgray;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
